@@ -1,6 +1,6 @@
 {
   "name": "react-lottie-with-segments",
-  "version": "1.4.7",
+  "version": "1.4.8",
   "description": "lottie animation view for React",
   "repository": {
     "type": "git",
@@ -52,7 +52,7 @@
     "babel-runtime": "^6.26.0",
     "lottie-web": "^5.1.3"
   },
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "engines": {
     "npm": "^6.13.7"
   },
